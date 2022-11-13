@@ -1,4 +1,4 @@
-baseURL = "learninglabs.netlify.com"
+baseURL = "learninglabs.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
